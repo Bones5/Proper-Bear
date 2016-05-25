@@ -570,6 +570,7 @@ section + section {
   display: block;
   width: 100%;
   height: auto;
+  background-color: black;
   border-left: .5em solid;
   border-right: .5em solid;
 }
